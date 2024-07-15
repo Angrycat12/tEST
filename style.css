@@ -51,7 +51,8 @@ main{
     border: 7px solid black;
     border-radius: 20px;
     padding:10px 30px 10px 30px;
-    font-size:40px ;
+    font-size:30px ;
+    margin-top: 20px;
 }
 .choose1{
     margin-top: 130px;
