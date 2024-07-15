@@ -6,10 +6,10 @@ body{
     font-style: normal;
 }
 .header{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 20px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin: 20px;
 }
 .header-logo{
 
@@ -20,19 +20,19 @@ body{
     align-items: center;
     justify-content: center;
     border-width:5px ;
-    padding-top:10px;
-    padding-bottom:10px ;
-    padding-left:15px;
-    padding-right: 15px ;
-    color: black;
-    text-decoration: none;
-    width:67px ;
-    height:42px ;
-    border-radius: 20px;
-    border-style: solid;
-    border-color: black;
-    background: #fff;
-    opacity: 4;
+   padding-top:10px;
+   padding-bottom:10px ;
+   padding-left:15px;
+   padding-right: 15px ;
+   color: black;
+   text-decoration: none;
+   width:67px ;
+   height:42px ;
+   border-radius: 20px;
+   border-style: solid;
+   border-color: black;  
+   background: #fff;
+   opacity: 4; 
 }
 
 .btn:hover{
@@ -50,7 +50,7 @@ main{
     transform: translate(-50%, -50%);
     border: 7px solid black;
     border-radius: 20px;
-    padding:20px 100px 20px 100px;
+    padding:10px 30px 10px 30px;
     font-size:40px ;
 }
 .choose1{
@@ -86,11 +86,3 @@ main{
     padding:20px 100px 20px 100px;
     background: linear-gradient(#C4F0B4, #F0E81B);
 }
-
-
-
-
-
-
-
-
