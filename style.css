@@ -5,19 +5,20 @@ body{
     font-weight: 800;
     font-style: normal;
     regular
-}
-.header{
-display: flex;
-justify-content: space-between;
-align-items: center;
-margin: 20px;
-background: url('../img/фон.jpg');
+    background: url('../img/фон.jpg');
     background-size: cover;
     background-position: 100% 100%;
     background-color: #464646;
     padding-top: 30px;
     min-width: 100%;
 }
+}
+.header{
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin: 20px;
+
 .header-logo{
 
 }
