@@ -12,16 +12,14 @@ body{
     padding-top: 30px;
     min-width: 100%;
 }
-}
+
 .header{
 display: flex;
 justify-content: space-between;
 align-items: center;
 margin: 20px;
-
-.header-logo{
-
 }
+
 .btn{
     text-transform: uppercase;
     display: flex;
